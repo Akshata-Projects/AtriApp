@@ -10,6 +10,6 @@
     "publicUrlAssetMap": {
         "/app-assets": "../assets"
     },
-    "organizationName": "<your-organization-name>",
-    "projectName": "<your-repo-name>"
+    "organizationName": "Akshata-Projects",
+    "projectName": "AtriApp"
 }
